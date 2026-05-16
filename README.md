@@ -163,7 +163,6 @@ When a repository becomes public here, it should be useful as evidence of real e
 
 - GitHub: [@yasvanth511](https://github.com/yasvanth511)
 - LinkedIn: [yasvanth-udayakumar-55298042](https://www.linkedin.com/in/yasvanth-udayakumar-55298042/)
-- Public profile repository: [MyProfile](https://github.com/yasvanth511/MyProfile)
 
 ---
 
